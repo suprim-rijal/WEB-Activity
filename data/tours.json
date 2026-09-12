@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "name": "Northern Lights Expedition",
+    "duration": 5,
+    "difficulty": "medium",
+    "price": 1200
+  },
+  {
+    "id": 3,
+    "name": "Northern Lights Expedition",
+    "duration": 5,
+    "difficulty": "medium",
+    "price": 1200
+  },
+  {
+    "id": 4,
+    "name": "Northern Lights Expedition",
+    "duration": 5,
+    "difficulty": "medium",
+    "price": 1200
+  },
+  {
+    "id": 5,
+    "name": "Northern Lights Expedition",
+    "duration": 5,
+    "difficulty": "medium",
+    "price": 1200
+  }
+]
